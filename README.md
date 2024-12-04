@@ -5,10 +5,9 @@ There might be a later clarification of the Model of Generative AI and the keywo
 
 ## Using Guide
 ### In General: 
-Install Python:
-use the link to install python:
-https://www.python.org/downloads/
-Install the required libraries (if not already installed):
+#### Use the following link to install python:
+https://www.python.org/downloads
+#### Install the required libraries (if not already installed):
 ```python
 pip install matplotlib numpy scipy
 ```
