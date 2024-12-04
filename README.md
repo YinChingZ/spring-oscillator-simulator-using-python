@@ -46,4 +46,4 @@ And then, to plot the result, run the code:
 ```python
 python plot_oscillator.py
 ```
-
+To change values of constants, go to `spring_oscillator.py` and change it in `__main__`.
