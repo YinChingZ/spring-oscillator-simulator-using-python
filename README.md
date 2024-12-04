@@ -11,7 +11,7 @@ https://www.python.org/downloads
 ```python
 pip install matplotlib numpy scipy
 ```
-Go to release and choose the version wanted.
+Go to release and download the version wanted. Release note are avaliable in that page.
 ### v3.3
 Run the code:
 ```python
